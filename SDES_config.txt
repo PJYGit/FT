@@ -1,0 +1,1 @@
+rounds 5 key_size 15 block_size 24 encoding_type B6 p 103 q 199 
